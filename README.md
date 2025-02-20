@@ -16,4 +16,8 @@ This repository contains Portfolio website codes created using NextJs. <br />
 - [framer-motion](https://www.framer.com/motion/) <br />
 - [Tailwind css](https://tailwindcss.com/) <br />
 
+### Author
+
+Sinan Can Ozer
+
 
