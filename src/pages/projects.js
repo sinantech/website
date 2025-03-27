@@ -9,7 +9,7 @@ import Image from "next/image";
 
 const FeaturedProject = ({ type, title, summary, img, link, github }) => {
   return (
-    <article>
+    <article className="w-full flex items-center justify-between rounded-3xl border border-solid border-dark bg-light shadow-2xl">
       <Link href={link} target="_blank">
         <Image src={img} alt={title} className="w-full h-auto" />
       </Link>
